@@ -12,11 +12,11 @@
   "engines": ["node >= 0.4.0"],
   "main": "lib/wheat.js",
   "dependencies": {
-    "git-fs": ">=0.0.5",
-    "simple-mime": ">=0.0.1",
-    "haml": ">=0.2.5",
-    "step": ">=0.0.3",
-    "datetime": "0.0.3",
-    "proto": ">=0.1.0"
+    "git-fs": "https://github.com/XULRunner42/node-git/tarball/master",
+    "simple-mime": "https://github.com/XULRunner42/simple-mime/tarball/master",
+    "haml": "https://github.com/XULRunner42/haml-js/tarball/master",
+    "step": "https://github.com/XULRunner42/step/tarball/master",
+    "datetime": "https://github.com/XULRunner42/datetime/tarball/master",
+    "proto": "https://github.com/XULRunner42/proto/tarball/master"
   }
 }
